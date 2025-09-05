@@ -1,0 +1,13 @@
+# Geofeed for LaunchPad Network
+# Maintained by LaunchPad <i@launchpadx.top>
+# Last updated: 2025-09-05 14:37 UTC+8
+# Format: prefix,country_code,region,city,postcode
+
+# Switzerland @ FranTech
+2a14:7580:fffa::/48,CH,,Bern,
+
+# North Korea @ LaunchPad Network
+2a14:7583:f701::/48,KP,,Pyongyang,
+
+# Anycast WHOIS @ LaunchPad Network
+2a14:7583:f743::/48,,,,
