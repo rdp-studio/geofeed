@@ -14,5 +14,8 @@
 # Hong Kong @ MoeDove
 2a14:7583:f703::/48,HK,,Hong Kong,
 
+# United States (New York) @ Vultr
+2a14:7583:f704::/48,US,,New York,
+
 # Anycast @ LaunchPad Network
 2a14:7583:f743::/48,,,,
