@@ -15,10 +15,10 @@
 2a14:7583:f703::/48,HK,,Hong Kong,
 
 # United States @ Vultr
-2a14:7583:f704::/48,US,New York,New York,
+2a14:7583:f704::/48,US,US-NY,New York,
 
 # United States @ LaunchPad Home
-2a14:7583:f705::/48,US,California,Los Angeles,
+2a14:7583:f705::/48,US,US-CA,Los Angeles,
 
 # Anycast @ LaunchPad Network
 2a14:7583:f743::/48,,,,
