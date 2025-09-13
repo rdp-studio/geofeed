@@ -18,5 +18,8 @@
 # United States @ LaunchPad Home,,,,
 2a14:7583:f705::/48,US,US-CA,Los Angeles,
 
+# Antarctica @ LaunchPad Network,,,,
+2a14:7583:f707::/48,AQ,,McMurdo Station,
+
 # Anycast @ LaunchPad Network,,,,
 2a14:7583:f743::/48,,,,
