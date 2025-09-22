@@ -18,6 +18,9 @@
 # United States @ LaunchPad Network,,,,
 2a14:7583:f705::/48,US,US-CA,Los Angeles,
 
+# Shanghai @ LaunchPad HomeLab,,,,
+2a14:7583:f706::/48,CN,CN-SH,Shanghai,201201
+
 # Antarctica @ LaunchPad Network,,,,
 2a14:7583:f707::/48,AQ,,McMurdo Station,
 
