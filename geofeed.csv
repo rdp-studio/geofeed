@@ -3,7 +3,7 @@
 # Switzerland @ FranTech,,,,
 2a14:7580:fffa::/48,CH,,Bern,
 
-# North Korea @ LaunchPad Network,,,,
+# North Korea @ DreamLeaf,,,,
 2a14:7583:f701::/48,KP,,Pyongyang,
 
 # Ningbo @ RainYun,,,,
@@ -15,14 +15,17 @@
 # United States @ Vultr,,,,
 2a14:7583:f704::/48,US,US-NY,New York,
 
-# United States @ LaunchPad Network,,,,
+# United States @ DreamLeaf,,,,
 2a14:7583:f705::/48,US,US-CA,Los Angeles,
 
 # Shanghai @ LaunchPad HomeLab,,,,
 2a14:7583:f706::/48,CN,CN-SH,Shanghai,201201
 
-# Antarctica @ LaunchPad Network,,,,
+# Antarctica @ DreamLeaf,,,,
 2a14:7583:f707::/48,AQ,,McMurdo Station,
+
+# Shanghai @ LaunchPad HomeLab,,,,
+2a14:7583:f709::/48,CN,CN-SH,Shanghai,201201
 
 # Anycast @ LaunchPad Network,,,,
 2a14:7583:f743::/48,,,,
