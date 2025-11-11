@@ -33,5 +33,8 @@
 # Anycast @ LaunchPad Network,,,,
 2a14:7583:f743::/48,,,,
 
+# NTP @ LaunchPad Network,,,,
+2a14:7583:f744::/48,AQ,,McMurdo Station,
+
 # NAT64 @ LaunchPad Network,,,,
 2a14:7583:f764::/48,,,,
