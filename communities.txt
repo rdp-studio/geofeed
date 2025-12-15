@@ -35,39 +35,45 @@
 214955:2:55,Originated from Asia-N (RU)
 214955:2:56,Originated from Asia-W (IR,TR,UAE)
 214955:2:57,Originated from Central Asia (AF,UZ,KZ)
-214955:3:1156,Learnt at China
-214955:3:1344,Learnt at Hong Kong
-214955:3:1756,Learnt at Switzerland
-214955:3:1840,Learnt at United States of America
-214955:3:1xxx,Learnt at ISO-3166-1:$0
-214955:3:3001,Learnt at BuyVM-CH (PoP 1)
-214955:3:3002,Learnt at MoeDove-HK (PoP 2)
-214955:3:3003,Learnt at RainYun-NGB (PoP 3)
-214955:3:3005,Learnt at Vultr-US (PoP 5)
-214955:3:3006,Learnt at HomeLab-SHA (PoP 6)
-214955:3:3008,Learnt at AKIX-HKG (PoP 8)
-214955:3:3009,Learnt at DSIX-HKG (PoP 9)
-214955:3:3xxx,Learnt at PoP:$0
-214955:3:41,Learnt at Europe
-214955:3:42,Learnt at North America-E
-214955:3:43,Learnt at North America-C
-214955:3:44,Learnt at North America-W
-214955:3:45,Learnt at Central America
-214955:3:46,Learnt at South America-E
-214955:3:47,Learnt at South America-W
-214955:3:48,Learnt at Africa-N (above Sahara)
-214955:3:49,Learnt at Africa-S (below Sahara)
-214955:3:50,Learnt at Asia-S (IN,PK,BD)
-214955:3:51,Learnt at Asia-SE (TH,SG,PH,ID,MY)
-214955:3:52,Learnt at Asia-E (JP,CN,KR,TW,HK)
-214955:3:53,Learnt at Pacific&Oceania (AU,NZ,FJ)
-214955:3:54,Learnt at Antarctica
-214955:3:55,Learnt at Asia-N (RU)
-214955:3:56,Learnt at Asia-W (IR,TR,UAE)
-214955:3:57,Learnt at Central Asia (AF,UZ,KZ)
+214955:3:1156,Learnt from China
+214955:3:1344,Learnt from Hong Kong
+214955:3:1756,Learnt from Switzerland
+214955:3:1840,Learnt from United States of America
+214955:3:1xxx,Learnt from ISO-3166-1:$0
+214955:3:3001,Learnt from BuyVM-CH (PoP 1)
+214955:3:3002,Learnt from MoeDove-HK (PoP 2)
+214955:3:3003,Learnt from RainYun-NGB (PoP 3)
+214955:3:3005,Learnt from Vultr-US (PoP 5)
+214955:3:3006,Learnt from HomeLab-SHA (PoP 6)
+214955:3:3008,Learnt from AKIX-HKG (PoP 8)
+214955:3:3009,Learnt from DSIX-HKG (PoP 9)
+214955:3:3xxx,Learnt from PoP:$0
+214955:3:41,Learnt from Europe
+214955:3:42,Learnt from North America-E
+214955:3:43,Learnt from North America-C
+214955:3:44,Learnt from North America-W
+214955:3:45,Learnt from Central America
+214955:3:46,Learnt from South America-E
+214955:3:47,Learnt from South America-W
+214955:3:48,Learnt from Africa-N (above Sahara)
+214955:3:49,Learnt from Africa-S (below Sahara)
+214955:3:50,Learnt from Asia-S (IN,PK,BD)
+214955:3:51,Learnt from Asia-SE (TH,SG,PH,ID,MY)
+214955:3:52,Learnt from Asia-E (JP,CN,KR,TW,HK)
+214955:3:53,Learnt from Pacific&Oceania (AU,NZ,FJ)
+214955:3:54,Learnt from Antarctica
+214955:3:55,Learnt from Asia-N (RU)
+214955:3:56,Learnt from Asia-W (IR,TR,UAE)
+214955:3:57,Learnt from Central Asia (AF,UZ,KZ)
 214955:5:1,RPKI Valid
 214955:5:2,RPKI Unknown
 214955:5:3,RPKI Invalid
 214955:5:4,ASPA Valid
 214955:5:5,ASPA Unknown
 214955:5:6,ASPA Invalid
+214955:5:7,IRR Valid
+214955:5:8,IRR Invalid
+214955:5:9,IRR AS_PATH Valid
+214955:5:10,IRR AS_PATH Invalid
+214955:5:11,Next Hop Valid
+214955:5:12,Next Hop Invalid
