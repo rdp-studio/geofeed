@@ -65,6 +65,7 @@
 214955:3:55,Learnt from Asia-N (RU)
 214955:3:56,Learnt from Asia-W (IR,TR,UAE)
 214955:3:57,Learnt from Central Asia (AF,UZ,KZ)
+214955:4:nnn,Private Control Community
 214955:5:1,RPKI Valid
 214955:5:2,RPKI Unknown
 214955:5:3,RPKI Invalid
@@ -77,3 +78,15 @@
 214955:5:10,IRR AS_PATH Invalid
 214955:5:11,Next Hop Valid
 214955:5:12,Next Hop Invalid
+214955:5:13,AS_PATH include transit free ASNs
+214955:5:14,AS_PATH include never via route server ASNs
+214955:6:nnn,Received from AS$0
+214955:7:4802,Received from AKIX - HKG
+214955:7:3825,Received from BGP.Exchange - Hong Kong
+214955:7:3835,Received from BGP.Exchange - Kansas
+214955:7:3830,Received from BGP.Exchange - Zurich
+214955:7:4440,Received from DataSphere Internet Exchange (Hong Kong)
+214955:7:4830,Received from LoLi-IX - NGB
+214955:7:3166,Received from ZXIX Hangzhou (Y)
+214955:7:3246,Received from ZXIX Hong Kong (X)
+214955:7:nnn,Received from PeeringDB IXP ID:$0
